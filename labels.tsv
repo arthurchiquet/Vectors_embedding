@@ -1,0 +1,2401 @@
+country	color	variety	taster_name
+US	rouge	red blend	Sean P. Sullivan
+US	rouge	pinot noir	Matt Kettmann
+US	rouge	cabernet sauvignon	Sean P. Sullivan
+US	rosé	cinsault	Paul Gregutt
+US	rouge	cabernet sauvignon	NTN
+US	rouge	malbec	Virginie Boone
+US	rouge	red blend	Jim Gordon
+US	rouge	cabernet franc	Paul Gregutt
+US	rouge	cabernet sauvignon	Virginie Boone
+US	rouge	zinfandel	Virginie Boone
+US	rouge	zinfandel	Matt Kettmann
+US	rouge	pinot noir	Virginie Boone
+US	blanc	chardonnay	NTN
+US	rouge	pinot noir	Paul Gregutt
+US	blanc	white blend	Jim Gordon
+US	rouge	cabernet sauvignon-sangiovese	Matt Kettmann
+US	rouge	carignane	Jim Gordon
+US	rouge	cabernet sauvignon	NTN
+US	blanc	chardonnay	Paul Gregutt
+US	rouge	cabernet sauvignon	Virginie Boone
+US	rouge	red blend	Paul Gregutt
+US	rouge	syrah	Virginie Boone
+US	rouge	pinot noir	Jim Gordon
+US	rouge	pinot noir	Matt Kettmann
+US	blanc	riesling	Paul Gregutt
+US	rouge	cabernet sauvignon	NTN
+US	blanc	riesling	Paul Gregutt
+US	blanc	sparkling blend	Paul Gregutt
+US	rouge	syrah	Paul Gregutt
+US	rouge	red blend	NTN
+US	rouge	pinot noir	NTN
+US	rouge	merlot	Virginie Boone
+US	blanc	roussanne	Matt Kettmann
+US	blanc	pinot grigio	NTN
+US	rouge	syrah	Sean P. Sullivan
+US	rouge	merlot	Jim Gordon
+US	blanc	viognier	Virginie Boone
+US	rouge	merlot	NTN
+US	rouge	pinot noir	Virginie Boone
+US	rouge	zinfandel	Paul Gregutt
+US	blanc	pinot gris	Sean P. Sullivan
+US	rouge	pinot noir	Paul Gregutt
+US	rouge	grenache	Matt Kettmann
+US	blanc	roussanne	Jim Gordon
+US	rouge	rhône-style red blend	NTN
+US	blanc	chardonnay	Matt Kettmann
+US	blanc	chardonnay	Virginie Boone
+US	blanc	tocai friulano	Alexander Peartree
+US	blanc	sauvignon blanc	Jim Gordon
+US	rouge	cabernet sauvignon	Jim Gordon
+US	rouge	pinot noir	Virginie Boone
+US	blanc	chardonnay	NTN
+US	rouge	cabernet sauvignon	Sean P. Sullivan
+US	blanc	chardonnay	Paul Gregutt
+US	rouge	red blend	NTN
+US	blanc	chardonnay	NTN
+US	rouge	pinot noir	Joe Czerwinski
+US	blanc	chardonnay	NTN
+US	rouge	carmenère	Jim Gordon
+US	blanc	chardonnay	NTN
+US	rouge	grenache	Paul Gregutt
+US	rouge	zinfandel	Matt Kettmann
+US	rouge	sangiovese	Sean P. Sullivan
+US	rouge	pinot noir	Michael Schachner
+US	rouge	pinot noir	Jim Gordon
+US	rouge	pinot noir	Matt Kettmann
+US	rouge	grenache	Matt Kettmann
+US	rouge	pinot noir	NTN
+US	rouge	montepulciano	Matt Kettmann
+US	rouge	bordeaux-style red blend	NTN
+US	rouge	syrah	Matt Kettmann
+US	rouge	red blend	NTN
+US	rouge	pinot noir	Virginie Boone
+US	blanc	riesling	Jim Gordon
+US	rouge	pinot noir	Paul Gregutt
+US	blanc	chardonnay	Paul Gregutt
+US	rouge	pinot noir	Matt Kettmann
+US	rouge	pinot noir	Jim Gordon
+US	rouge	cabernet sauvignon	Sean P. Sullivan
+US	rouge	pinot noir	Paul Gregutt
+US	rouge	pinot noir	Virginie Boone
+US	rouge	cabernet sauvignon	Jim Gordon
+US	blanc	sauvignon blanc	Virginie Boone
+US	blanc	chardonnay	Anna Lee C. Iijima
+US	rouge	cabernet sauvignon	Virginie Boone
+US	blanc	gewürztraminer	Alexander Peartree
+US	rouge	pinot noir	NTN
+US	rosé	rosé	Matt Kettmann
+US	rouge	pinot noir	Virginie Boone
+US	rouge	merlot	NTN
+US	blanc	roussanne	Virginie Boone
+US	rouge	pinot noir	NTN
+US	blanc	chardonnay	NTN
+US	blanc	chardonnay	NTN
+US	rouge	cabernet sauvignon	Jim Gordon
+US	rouge	sangiovese	Virginie Boone
+US	blanc	chardonnay	Paul Gregutt
+US	blanc	malvasia bianca	Matt Kettmann
+US	blanc	chenin blanc	Sean P. Sullivan
+US	rouge	zinfandel	Virginie Boone
+US	rouge	cabernet sauvignon	Virginie Boone
+US	rouge	grenache	Paul Gregutt
+US	rouge	zinfandel	Matt Kettmann
+US	rouge	malbec	Matt Kettmann
+US	blanc	chardonnay	Virginie Boone
+US	blanc	syrah-viognier	Virginie Boone
+US	blanc	sauvignon blanc	Paul Gregutt
+US	blanc	muscat	NTN
+US	blanc	chardonnay	Virginie Boone
+US	rouge	pinot noir	Virginie Boone
+US	rouge	cabernet franc	Matt Kettmann
+US	rouge	pinot noir	Virginie Boone
+US	blanc	sparkling blend	NTN
+US	blanc	gewürztraminer	Sean P. Sullivan
+US	blanc	chardonnay	Virginie Boone
+US	rouge	zinfandel	Jim Gordon
+US	rouge	pinot noir	Jim Gordon
+US	blanc	gewürztraminer	Alexander Peartree
+US	rouge	zinfandel	Paul Gregutt
+US	blanc	sparkling blend	Anna Lee C. Iijima
+US	rouge	cabernet sauvignon	NTN
+US	rouge	cabernet sauvignon	Sean P. Sullivan
+US	blanc	white blend	NTN
+US	rouge	red blend	NTN
+US	rouge	cabernet sauvignon	Sean P. Sullivan
+US	rouge	cabernet sauvignon	Sean P. Sullivan
+US	rouge	red blend	Sean P. Sullivan
+US	blanc	sauvignon blanc	Matt Kettmann
+US	blanc	pinot gris-gewürztraminer	Sean P. Sullivan
+US	rouge	cabernet franc	Sean P. Sullivan
+US	rouge	dolcetto	NTN
+US	rouge	pinot noir	Matt Kettmann
+US	blanc	chardonnay	Virginie Boone
+US	blanc	sauvignon blanc	Virginie Boone
+US	rouge	pinot noir	Virginie Boone
+US	rouge	merlot	NTN
+US	rouge	petite sirah	Paul Gregutt
+US	rouge	pinot noir	Paul Gregutt
+US	rouge	red blend	NTN
+US	rouge	pinot noir	Jim Gordon
+US	rouge	pinot noir	Jim Gordon
+US	rouge	syrah	NTN
+US	rouge	rhône-style red blend	Jim Gordon
+US	blanc	riesling	Sean P. Sullivan
+US	blanc	white blend	Paul Gregutt
+US	rouge	rhône-style red blend	Jim Gordon
+US	rouge	mourvèdre	Jim Gordon
+US	rouge	cabernet sauvignon	NTN
+US	rouge	syrah	Matt Kettmann
+US	rouge	pinot noir	NTN
+US	rouge	pinot noir	Paul Gregutt
+US	rouge	pinot noir	Virginie Boone
+US	rouge	g-s-m	Virginie Boone
+US	rouge	zinfandel	Jim Gordon
+US	rouge	cabernet sauvignon	Paul Gregutt
+US	rouge	pinot noir	Virginie Boone
+US	blanc	sauvignon blanc	Jim Gordon
+US	rouge	bordeaux-style red blend	Sean P. Sullivan
+US	rouge	merlot	NTN
+US	rouge	syrah	NTN
+US	rouge	syrah	NTN
+US	rouge	tempranillo	Paul Gregutt
+US	rouge	blaufränkisch	Matt Kettmann
+US	rouge	syrah	Sean P. Sullivan
+US	rosé	rosé	Paul Gregutt
+US	rouge	tempranillo	Sean P. Sullivan
+US	rouge	pinot noir	Virginie Boone
+US	blanc	sparkling blend	NTN
+US	rouge	pinot noir	Matt Kettmann
+US	rouge	pinot noir	Paul Gregutt
+US	rouge	zinfandel	Virginie Boone
+US	blanc	sparkling blend	Virginie Boone
+US	rouge	red blends	Jim Gordon
+US	blanc	sauvignon blanc	Carrie Dykes
+US	blanc	grüner veltliner	Sean P. Sullivan
+US	rouge	rhône-style red blend	Paul Gregutt
+US	rouge	sangiovese	Paul Gregutt
+US	rouge	cabernet sauvignon	NTN
+US	blanc	roussanne	Paul Gregutt
+US	blanc	pinot grigio	Matt Kettmann
+US	blanc	chardonnay	Matt Kettmann
+US	rouge	petit verdot	Jim Gordon
+US	rouge	syrah	NTN
+US	rouge	syrah	NTN
+US	rouge	syrah	Matt Kettmann
+US	blanc	chardonnay	Virginie Boone
+US	blanc	sparkling blend	NTN
+US	rouge	pinot noir	Matt Kettmann
+US	blanc	viognier	NTN
+US	rouge	pinot noir	Paul Gregutt
+US	rouge	pinot noir	Jim Gordon
+US	rouge	syrah	Matt Kettmann
+US	rouge	cabernet franc	Alexander Peartree
+US	rosé	rosé	NTN
+US	rouge	cabernet sauvignon	Paul Gregutt
+US	rouge	rhône-style red blend	NTN
+US	rouge	zinfandel	Jim Gordon
+US	rouge	pinot noir	Virginie Boone
+US	rouge	pinot noir	Jim Gordon
+US	rouge	cabernet sauvignon	NTN
+France	rouge	bordeaux-style red blend	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	rouge	malbec	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rosé	rosé	Roger Voss
+France	rosé	rosé	Roger Voss
+France	rouge	grenache	Lauren Buzzeo
+France	rosé	rosé	Anna Lee C. Iijima
+France	blanc	pinot gris	Roger Voss
+France	rouge	gamay	Roger Voss
+France	rouge	pinot noir	Roger Voss
+France	rouge	mourvèdre	Anna Lee C. Iijima
+France	rouge	rhône-style red blend	NTN
+France	blanc	melon	Roger Voss
+France	blanc	sauvignon blanc	Roger Voss
+France	blanc	sauvignon blanc	Roger Voss
+France	blanc	chenin blanc	Roger Voss
+France	blanc	rhône-style white blend	Anna Lee C. Iijima
+France	blanc	sauvignon blanc	Roger Voss
+France	rouge	gamay	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	rosé	rosé	Lauren Buzzeo
+France	rosé	rosé	Anna Lee C. Iijima
+France	blanc	chardonnay	Roger Voss
+France	rosé	rosé	Roger Voss
+France	blanc	chenin blanc	Roger Voss
+France	rouge	syrah	Joe Czerwinski
+France	rouge	bordeaux-style red blend	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	rosé	rosé	Roger Voss
+France	blanc	pinot blanc	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	rouge	merlot	Roger Voss
+France	rouge	cabernet franc	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	rouge	malbec	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rosé	rosé	Roger Voss
+France	rouge	provence red blend	Roger Voss
+France	rosé	rosé	Anna Lee C. Iijima
+France	blanc	colombard	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	rouge	red blends	Roger Voss
+France	blanc	rhône-style white blend	Anna Lee C. Iijima
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	pinot noir	Roger Voss
+France	blanc	bordeaux-style white blend	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rosé	rosé	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	rouge	pinot noir	Anne Krebiehl MW
+France	blanc	sauvignon blanc	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	blanc	gewürztraminer	Anne Krebiehl MW
+France	rosé	rosé	Roger Voss
+France	rouge	pinot noir	Anne Krebiehl MW
+France	rosé	champagne blend	Roger Voss
+France	blanc	chenin blanc	Roger Voss
+France	rouge	grenache-syrah	Anna Lee C. Iijima
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	rosé	rosé	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	blanc	pinot blanc	Anne Krebiehl MW
+France	rouge	bordeaux-style red blend	Roger Voss
+France	blanc	rhône-style white blend	Joe Czerwinski
+France	rosé	rosé	Roger Voss
+France	blanc	riesling	Anne Krebiehl MW
+France	blanc	chasselas	Anne Krebiehl MW
+France	rouge	pinot noir	Roger Voss
+France	rosé	rosé	Roger Voss
+France	blanc	riesling	NTN
+France	blanc	white blend	Roger Voss
+France	rosé	rosé	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	rouge	red blend	Roger Voss
+France	rouge	gamay	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	rouge	grenache	Roger Voss
+France	rouge	gamay	Roger Voss
+France	rosé	rosé	Lauren Buzzeo
+France	rosé	champagne blend	Roger Voss
+France	rosé	rosé	Roger Voss
+France	rouge	gamay	Roger Voss
+France	rouge	rhône-style red blend	Anna Lee C. Iijima
+France	rouge	pinot noir	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	blanc	muscat	Roger Voss
+France	blanc	sauvignon blanc	Roger Voss
+France	rouge	gamay	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	blanc	syrah-viognier	Anna Lee C. Iijima
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	red blends	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	rhône-style red blend	Lauren Buzzeo
+France	blanc	melon	Roger Voss
+France	rosé	rosé	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	rouge	red blend	Roger Voss
+France	rosé	rosé	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	blanc	pinot gris	Anne Krebiehl MW
+France	rouge	cabernet franc	Roger Voss
+France	blanc	sauvignon blanc	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	blanc	pinot gris	Anne Krebiehl MW
+France	rouge	pinot noir	Roger Voss
+France	blanc	riesling	Anne Krebiehl MW
+France	rosé	rosé	Joe Czerwinski
+France	rouge	rhône-style red blend	Roger Voss
+France	rouge	pinot noir	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	blanc	rhône-style white blend	Anna Lee C. Iijima
+France	rouge	bordeaux-style red blend	Roger Voss
+France	blanc	riesling	Anne Krebiehl MW
+France	blanc	riesling	Anne Krebiehl MW
+France	blanc	gros and petit manseng	Roger Voss
+France	blanc	pinot blanc	Anne Krebiehl MW
+France	blanc	chardonnay	Roger Voss
+France	blanc	sauvignon blanc	Roger Voss
+France	rouge	rhône-style red blend	Joe Czerwinski
+France	rouge	pinot noir	Roger Voss
+France	blanc	pinot gris	Anne Krebiehl MW
+France	rouge	rhône-style red blend	Lauren Buzzeo
+France	blanc	sparkling blend	Anne Krebiehl MW
+France	blanc	bordeaux-style white blend	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	blanc	pinot gris	Anne Krebiehl MW
+France	blanc	white blend	Lauren Buzzeo
+France	rouge	gamay	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	tannat	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	rouge	cabernet franc	Roger Voss
+France	rouge	pinot noir	Anne Krebiehl MW
+France	blanc	bordeaux-style white blend	Roger Voss
+France	rouge	gamay	Roger Voss
+France	rouge	pinot noir	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rosé	rosé	Roger Voss
+France	blanc	rhône-style white blend	Joe Czerwinski
+France	blanc	riesling	Anne Krebiehl MW
+France	blanc	riesling	Roger Voss
+France	rouge	rhône-style red blend	Anna Lee C. Iijima
+France	rouge	gamay	Roger Voss
+France	blanc	bordeaux-style white blend	Roger Voss
+France	rosé	champagne blend	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	rhône-style red blend	Joe Czerwinski
+France	rouge	red blends	Roger Voss
+France	blanc	riesling	Anne Krebiehl MW
+France	rouge	pinot noir	Roger Voss
+France	blanc	sauvignon blanc	NTN
+France	rouge	gamay	Roger Voss
+France	rouge	syrah	Anna Lee C. Iijima
+France	rosé	champagne blend	Roger Voss
+France	blanc	white blend	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	pinot noir	Roger Voss
+France	blanc	viognier	Anna Lee C. Iijima
+France	rouge	merlot	Roger Voss
+France	rouge	pinot noir	Roger Voss
+France	rouge	gamay	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rouge	rhône-style red blend	Lauren Buzzeo
+France	blanc	rhône-style white blend	Anna Lee C. Iijima
+France	rosé	rosé	Lauren Buzzeo
+France	blanc	rhône-style white blend	Anna Lee C. Iijima
+France	blanc	muscat	Anne Krebiehl MW
+France	rouge	pinot noir	Roger Voss
+France	rouge	red blends	Roger Voss
+France	rouge	pinot noir	Roger Voss
+France	rosé	rosé	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	rosé	rosé	Roger Voss
+France	blanc	chardonnay	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	blanc	riesling	Roger Voss
+France	rouge	gamay	Roger Voss
+France	rouge	bordeaux-style red blend	Roger Voss
+France	blanc	melon	Roger Voss
+France	blanc	riesling	Anne Krebiehl MW
+France	blanc	riesling	Anne Krebiehl MW
+France	blanc	bordeaux-style white blend	Roger Voss
+France	rouge	malbec	Roger Voss
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	sangiovese grosso	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	sangiovese grosso	NTN
+Italy	blanc	sparkling blend	Kerin O’Keefe
+Italy	blanc	pinot grigio	Kerin O’Keefe
+Italy	blanc	glera	Kerin O’Keefe
+Italy	blanc	pecorino	NTN
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	blanc	falanghina	Kerin O’Keefe
+Italy	blanc	white blend	Alexander Peartree
+Italy	rouge	montepulciano	Alexander Peartree
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	blanc	vernaccia	Kerin O’Keefe
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	rouge	cabernet sauvignon	Kerin O’Keefe
+Italy	rouge	corvina, rondinella, molinara	NTN
+Italy	blanc	sparkling blend	Kerin O’Keefe
+Italy	blanc	white blend	Kerin O’Keefe
+Italy	rouge	red blend	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	sangiovese	Michael Schachner
+Italy	rouge	barbera	Kerin O’Keefe
+Italy	rouge	barbera	Kerin O’Keefe
+Italy	rouge	sangiovese	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	merlot	Kerin O’Keefe
+Italy	blanc	white blend	Kerin O’Keefe
+Italy	rouge	red blend	NTN
+Italy	rosé	rosato	Alexander Peartree
+Italy	blanc	verdicchio	Kerin O’Keefe
+Italy	rouge	red blend	NTN
+Italy	blanc	chardonnay	Kerin O’Keefe
+Italy	blanc	vernaccia	Kerin O’Keefe
+Italy	rouge	barbera	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	pinot nero	Kerin O’Keefe
+Italy	blanc	prosecco	NTN
+Italy	rouge	pinot nero	Kerin O’Keefe
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	blanc	müller-thurgau	NTN
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	blanc	cortese	Kerin O’Keefe
+Italy	blanc	greco	NTN
+Italy	blanc	ribolla gialla	Kerin O’Keefe
+Italy	rosé	rosé	NTN
+Italy	blanc	sparkling blend	Kerin O’Keefe
+Italy	blanc	grecanico	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	blanc	pinot bianco	Kerin O’Keefe
+Italy	rouge	negroamaro	Alexander Peartree
+Italy	blanc	white blend	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	blanc	sauvignon	NTN
+Italy	blanc	fiano	Kerin O’Keefe
+Italy	rouge	montepulciano	Alexander Peartree
+Italy	blanc	sparkling blend	Kerin O’Keefe
+Italy	rouge	nero d'avola	NTN
+Italy	blanc	pinot bianco	Kerin O’Keefe
+Italy	blanc	insolia	Kerin O’Keefe
+Italy	blanc	sparkling blend	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	blanc	greco	NTN
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	rouge	montepulciano	Alexander Peartree
+Italy	blanc	sparkling blend	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	nebbiolo	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	blanc	pecorino	Alexander Peartree
+Italy	blanc	glera	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	blanc	turbiana	Kerin O’Keefe
+Italy	blanc	glera	Kerin O’Keefe
+Italy	rouge	barbera	Kerin O’Keefe
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	blanc	pinot grigio	Kerin O’Keefe
+Italy	blanc	verdicchio	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	rouge	red blend	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	blanc	pinot bianco	Kerin O’Keefe
+Italy	rouge	red blends	Alexander Peartree
+Italy	blanc	verdicchio	Kerin O’Keefe
+Italy	blanc	prosecco	NTN
+Italy	rouge	aglianico	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	blanc	sauvignon	Kerin O’Keefe
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	rouge	barbera	NTN
+Italy	blanc	grillo	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	red blend	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	red blend	NTN
+Italy	rouge	corvina, rondinella, molinara	NTN
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	blanc	pecorino	Alexander Peartree
+Italy	rouge	aglianico	NTN
+Italy	blanc	garganega	Kerin O’Keefe
+Italy	rouge	sangiovese	NTN
+Italy	rouge	nebbiolo	NTN
+Italy	rouge	aglianico	Kerin O’Keefe
+Italy	rouge	cabernet sauvignon	NTN
+Italy	blanc	pinot grigio	Joe Czerwinski
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	aglianico	Kerin O’Keefe
+Italy	blanc	catarratto	NTN
+Italy	blanc	pinot grigio	Kerin O’Keefe
+Italy	blanc	white blend	Kerin O’Keefe
+Italy	rouge	nebbiolo	NTN
+Italy	rouge	teroldego	Kerin O’Keefe
+Italy	blanc	white blend	Roger Voss
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	pugnitello	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	blanc	sauvignon	NTN
+Italy	blanc	vermentino	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	blanc	falanghina	Kerin O’Keefe
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	blanc	sauvignon	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	nebbiolo	NTN
+Italy	blanc	arneis	Kerin O’Keefe
+Italy	rosé	nerello mascalese	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	pallagrello nero	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	merlot	Kerin O’Keefe
+Italy	rouge	pinot nero	Kerin O’Keefe
+Italy	blanc	pinot grigio	Kerin O’Keefe
+Italy	blanc	riesling	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	red blend	NTN
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	lambrusco	Kerin O’Keefe
+Italy	rouge	sangiovese	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	blanc	pinot grigio	Kerin O’Keefe
+Italy	rouge	red blend	NTN
+Italy	blanc	glera	Kerin O’Keefe
+Italy	blanc	pecorino	Alexander Peartree
+Italy	blanc	glera	Kerin O’Keefe
+Italy	rouge	nebbiolo	NTN
+Italy	blanc	chardonnay	NTN
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	corvina, rondinella, molinara	NTN
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	lagrein	NTN
+Italy	blanc	fiano	Kerin O’Keefe
+Italy	rouge	red blends	Kerin O’Keefe
+Italy	blanc	sparkling blend	Kerin O’Keefe
+Italy	rouge	nero d'avola	NTN
+Italy	rouge	barbera	Kerin O’Keefe
+Italy	blanc	white blend	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	rouge	sangiovese	NTN
+Italy	rouge	sangiovese	NTN
+Italy	rouge	sangiovese	Kerin O’Keefe
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	red blend	Kerin O’Keefe
+Italy	blanc	pecorino	Alexander Peartree
+Italy	rouge	nebbiolo	Kerin O’Keefe
+Italy	rouge	nebbiolo	NTN
+Italy	blanc	chardonnay	Kerin O’Keefe
+Italy	blanc	falanghina	NTN
+Italy	blanc	turbiana	Kerin O’Keefe
+Italy	rouge	primitivo	Alexander Peartree
+Italy	blanc	falanghina	Kerin O’Keefe
+Italy	rouge	sangiovese grosso	NTN
+Italy	rouge	corvina, rondinella, molinara	NTN
+Italy	rouge	perricone	Kerin O’Keefe
+Italy	rouge	sangiovese grosso	NTN
+Italy	blanc	glera	NTN
+Spain	blanc	verdejo	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	blanc	verdejo	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	rouge	garnacha-syrah	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	petit verdot	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	blanc	viura	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	grenache blend	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	rouge	tempranillo blend	NTN
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	tinta de toro	Michael Schachner
+Spain	blanc	godello	Michael Schachner
+Spain	rouge	monastrell	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tinto fino	Michael Schachner
+Spain	rouge	red blends	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	blanc	albillo	Michael Schachner
+Spain	blanc	verdejo	Michael Schachner
+Spain	blanc	malvasia	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	bordeaux-style red blend	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	syrah	Michael Schachner
+Spain	rouge	garnacha-syrah	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tinto fino	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	rouge	pedro ximénez	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rosé	rosado	Michael Schachner
+Spain	rouge	grenache	Michael Schachner
+Spain	rouge	tempranillo-syrah	Michael Schachner
+Spain	rosé	rosado	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	rouge	sherry	Michael Schachner
+Spain	rouge	tempranillo-shiraz	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	rouge	red blends	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	rouge	syrah	Michael Schachner
+Spain	blanc	macabeo	Michael Schachner
+Spain	rouge	tempranillo-garnacha	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	blanc	verdejo	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	sherry	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tinto fino	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	blanc	malvasia	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	rouge	tinto fino	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	blanc	verdejo	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	rosé	rosé	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	rouge	sherry	Michael Schachner
+Spain	blanc	chardonnay	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	rouge	red blends	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	blanc	godello	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tinto fino	Michael Schachner
+Spain	rouge	pedro ximénez	Michael Schachner
+Spain	rouge	graciano	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	blanc	verdejo	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	blanc	godello	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	blanc	macabeo	Michael Schachner
+Spain	rouge	monastrell	Michael Schachner
+Spain	rouge	monastrell-syrah	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	cabernet franc	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	blanc	godello	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	blanc	macabeo	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tinto fino	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	blanc	viura	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	blanc	viura	Michael Schachner
+Spain	blanc	viura-verdejo	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	rouge	red blend	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	rouge	garnacha	Michael Schachner
+Spain	rouge	cabernet sauvignon	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rosé	rosé	Michael Schachner
+Spain	rouge	red blends	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	blanc	godello	Michael Schachner
+Spain	blanc	verdejo	Michael Schachner
+Spain	blanc	albariño	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	rouge	garnacha-graciano	Michael Schachner
+Spain	rosé	rosé	Michael Schachner
+Spain	rouge	tinta de toro	Michael Schachner
+Spain	rouge	mencía	Michael Schachner
+Spain	rouge	tinta de toro	Michael Schachner
+Spain	blanc	godello	Michael Schachner
+Spain	rouge	sherry	Michael Schachner
+Spain	rosé	rosé	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	blanc	verdejo	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	rouge	tinto fino	Michael Schachner
+Spain	blanc	chardonnay-macabeo	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	blanc	verdejo	Michael Schachner
+Spain	blanc	maturana	Michael Schachner
+Spain	blanc	sparkling blend	Michael Schachner
+Spain	rouge	tempranillo blend	Michael Schachner
+Spain	blanc	verdejo	Michael Schachner
+Spain	rouge	babosa negro	Michael Schachner
+Spain	blanc	white blend	Michael Schachner
+Spain	rouge	cabernet sauvignon	Michael Schachner
+Spain	rosé	rosé	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	blanc	hondarrabi zuri	Michael Schachner
+Spain	blanc	chardonnay	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Spain	rouge	tempranillo	Michael Schachner
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	encruzado	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rosé	rosé	Roger Voss
+Portugal	rouge	castelão	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	touriga franca	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	alvarinho	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	blanc	sauvignon blanc	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rosé	portuguese sparkling	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	touriga nacional	Roger Voss
+Portugal	rosé	rosé	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	syrah	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	touriga nacional blend	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	chardonnay	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	blanc	antão vaz	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	syrah	Roger Voss
+Portugal	rosé	rosé	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	arinto	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	tinta roriz	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	alvarinho	Roger Voss
+Portugal	blanc	verdelho	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	antão vaz	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	sauvignon blanc	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	alvarinho	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rosé	rosé	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	syrah-viognier	Roger Voss
+Portugal	blanc	verdelho	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	syrah	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	touriga nacional	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rosé	rosé	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	trajadura	Roger Voss
+Portugal	rosé	rosé	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rosé	rosé	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	fernão pires	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	verdelho	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	touriga franca	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rosé	rosé	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	touriga nacional	Roger Voss
+Portugal	rouge	aragonez	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	tinta barroca	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	siria	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	blanc	arinto	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	syrah	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	arinto	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	sparkling blend	Roger Voss
+Portugal	rouge	jaen	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	touriga nacional	Roger Voss
+Portugal	blanc	alvarinho	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	alicante bouschet	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	códega do larinho	Roger Voss
+Portugal	rouge	port	NTN
+Portugal	rouge	syrah	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rosé	portuguese rosé	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	alvarinho	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Portugal	blanc	portuguese white	Roger Voss
+Portugal	rouge	port	Roger Voss
+Portugal	rouge	portuguese red	Roger Voss
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	pinot noir	NTN
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	bordeaux-style red blend	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	malbec	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	cabernet sauvignon-carmenère	Michael Schachner
+Chile	rouge	malbec	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	blanc	white blend	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	syrah-cabernet	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	syrah-cabernet sauvignon	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	cabernet franc	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rosé	rosé	Michael Schachner
+Chile	rouge	cabernet blend	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	carignan	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	cabernet sauvignon-carmenère	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	cabernet sauvignon-cabernet franc	Michael Schachner
+Chile	rouge	bordeaux-style red blend	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	malbec	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	cabernet franc	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rosé	rosé	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	blanc	pinot gris	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	malbec	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	malbec	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	shiraz	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rosé	rosé	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	malbec	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	rouge	carignan	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	carignan	Michael Schachner
+Chile	rouge	cabernet blend	Michael Schachner
+Chile	rouge	malbec	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	red blends	Michael Schachner
+Chile	rosé	rosé	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	rouge	pinot noir	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rosé	rosé	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	syrah	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	merlot	Michael Schachner
+Chile	rouge	red blend	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	blanc	sauvignon blanc	Michael Schachner
+Chile	rouge	cabernet sauvignon	Michael Schachner
+Chile	rouge	carmenère	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Chile	blanc	chardonnay	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec-cabernet franc	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	malbec-syrah	Michael Schachner
+Argentina	rouge	red blends	Michael Schachner
+Argentina	rouge	malbec-merlot	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	sauvignon blanc	Michael Schachner
+Argentina	rouge	pinot noir	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	pinot noir	Michael Schachner
+Argentina	rouge	pinot noir	Michael Schachner
+Argentina	blanc	pinot gris	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	sauvignon blanc	Michael Schachner
+Argentina	rouge	red blend	Michael Schachner
+Argentina	rouge	malbec-cabernet sauvignon	Michael Schachner
+Argentina	rouge	red blend	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rosé	rosé	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	sauvignon blanc	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	bordeaux-style red blend	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	malbec-merlot	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	torrontés	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	red blend	Michael Schachner
+Argentina	rouge	pinot noir	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	bordeaux-style red blend	Michael Schachner
+Argentina	rouge	bordeaux-style red blend	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	red blend	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rosé	champagne blend	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	bordeaux-style red blend	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rosé	rosé	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	torrontés	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec-cabernet franc	Michael Schachner
+Argentina	rouge	merlot	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	torrontés	Michael Schachner
+Argentina	rouge	bonarda	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rosé	rosé	Michael Schachner
+Argentina	rouge	merlot	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	cabernet franc	Michael Schachner
+Argentina	rouge	red blend	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec-cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	bordeaux-style red blend	Michael Schachner
+Argentina	blanc	sparkling blend	Michael Schachner
+Argentina	rouge	red blends	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	cabernet-syrah	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	bordeaux-style red blend	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	pinot noir	Michael Schachner
+Argentina	blanc	sauvignon blanc	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	red blend	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	red blend	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	torrontés	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	bordeaux-style red blend	Michael Schachner
+Argentina	rouge	petit verdot	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	bonarda	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	sauvignon blanc	Michael Schachner
+Argentina	blanc	pinot grigio	Michael Schachner
+Argentina	rouge	bonarda	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rosé	champagne blend	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec-cabernet sauvignon	Michael Schachner
+Argentina	blanc	sparkling blend	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	pinot noir	Michael Schachner
+Argentina	blanc	pinot gris	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	cabernet franc	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	red blend	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	bordeaux-style white blend	Michael Schachner
+Argentina	rouge	nebbiolo	Michael Schachner
+Argentina	rouge	malbec-merlot	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	bordeaux-style red blend	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	shiraz	Michael Schachner
+Argentina	rouge	malbec-cabernet franc	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	torrontés	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet franc	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	blanc	chardonnay	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	rouge	cabernet sauvignon	Michael Schachner
+Argentina	blanc	pinot grigio	Michael Schachner
+Argentina	rouge	malbec-cabernet sauvignon	Michael Schachner
+Argentina	rouge	malbec	Michael Schachner
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	austrian white blend	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	rosé	zweigelt	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	sparkling blend	Anne Krebiehl MW
+Austria	rosé	zweigelt	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	neuburger	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	chardonnay	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Roger Voss
+Austria	rosé	zweigelt	Anne Krebiehl MW
+Austria	blanc	gelber muskateller	Roger Voss
+Austria	rosé	zweigelt	Anne Krebiehl MW
+Austria	rosé	zweigelt	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Roger Voss
+Austria	blanc	muskateller	NTN
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	rouge	red blends	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	rouge	pinot noir	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rosé	zweigelt	Anne Krebiehl MW
+Austria	rouge	austrian red blend	Anne Krebiehl MW
+Austria	rosé	rosé	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	white blend	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	riesling	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Roger Voss
+Austria	rosé	rosé	Roger Voss
+Austria	rouge	blaufränkisch	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	austrian red blend	Roger Voss
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	austrian red blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	welschriesling	Anne Krebiehl MW
+Austria	rosé	zweigelt	Anne Krebiehl MW
+Austria	blanc	welschriesling	NTN
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rosé	rosé	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rosé	zweigelt	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	austrian red blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Roger Voss
+Austria	rouge	austrian red blend	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	red blend	Anne Krebiehl MW
+Austria	blanc	sauvignon blanc	Roger Voss
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	red blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	sparkling blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	chardonnay	Anne Krebiehl MW
+Austria	blanc	chardonnay	Anne Krebiehl MW
+Austria	rouge	cabernet sauvignon	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	rouge	austrian red blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	traminer	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	blanc	zierfandler	Anne Krebiehl MW
+Austria	blanc	roter veltliner	Anne Krebiehl MW
+Austria	rouge	pinot noir	Anne Krebiehl MW
+Austria	rosé	rosé	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	blanc	riesling	Roger Voss
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	rouge	pinot noir	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rosé	zweigelt	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rosé	zweigelt	Anne Krebiehl MW
+Austria	rouge	austrian red blend	Anne Krebiehl MW
+Austria	blanc	austrian white blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	austrian red blend	Anne Krebiehl MW
+Austria	blanc	white blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	traminer	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	rouge	austrian red blend	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	rouge	austrian red blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	weissburgunder	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	sparkling blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grauburgunder	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	roter veltliner	Anne Krebiehl MW
+Austria	rosé	zweigelt	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	scheurebe	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	sauvignon blanc	Roger Voss
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rouge	blaufränkisch	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Roger Voss
+Austria	rouge	austrian red blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	sparkling blend	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	st. laurent	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	rosé	zweigelt	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	gros manseng	Roger Voss
+Austria	blanc	grüner veltliner	Roger Voss
+Austria	blanc	pinot blanc	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	grüner veltliner	Anne Krebiehl MW
+Austria	blanc	traminer	Roger Voss
+Austria	blanc	riesling	Anne Krebiehl MW
+Austria	rouge	pinot noir	Anne Krebiehl MW
+Austria	blanc	austrian white blend	Anne Krebiehl MW
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	chardonnay-semillon	Joe Czerwinski
+Australia	rouge	pinot noir	Christina Pickard
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	blanc	chardonnay	NTN
+Australia	rouge	cabernet sauvignon	Christina Pickard
+Australia	rosé	rosé	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	grenache	NTN
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	grenache	Christina Pickard
+Australia	blanc	shiraz-viognier	Joe Czerwinski
+Australia	blanc	chardonnay	NTN
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	shiraz	NTN
+Australia	blanc	viognier	NTN
+Australia	blanc	shiraz-viognier	Joe Czerwinski
+Australia	blanc	viognier	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	blanc	chardonnay	Christina Pickard
+Australia	blanc	riesling	Joe Czerwinski
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	bordeaux-style red blend	Joe Czerwinski
+Australia	rouge	grenache	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	dolcetto	Christina Pickard
+Australia	blanc	sauvignon blanc	Joe Czerwinski
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	blanc	riesling	Christina Pickard
+Australia	rouge	red blend	Joe Czerwinski
+Australia	blanc	chardonnay	Christina Pickard
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	rouge	g-s-m	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	blanc	sauvignon blanc	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	rosé	cinsault	Christina Pickard
+Australia	rouge	syrah	Christina Pickard
+Australia	rouge	pinot noir	Christina Pickard
+Australia	blanc	chardonnay	NTN
+Australia	rouge	red blend	Joe Czerwinski
+Australia	blanc	chardonnay	Christina Pickard
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	rouge	grenache	Christina Pickard
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	red blends	Christina Pickard
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Christina Pickard
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	blanc	sauvignon blanc-semillon	Joe Czerwinski
+Australia	blanc	semillon-sauvignon blanc	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Christina Pickard
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	blanc	shiraz-viognier	Joe Czerwinski
+Australia	blanc	sémillon	Christina Pickard
+Australia	rouge	grenache	Christina Pickard
+Australia	rouge	red blends	Christina Pickard
+Australia	rouge	cabernet sauvignon	Christina Pickard
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	riesling	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	barbera-nebbiolo	Christina Pickard
+Australia	rouge	g-s-m	NTN
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	vermentino	Christina Pickard
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	blanc	riesling	NTN
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	prosecco	Christina Pickard
+Australia	rouge	red blend	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	g-s-m	Christina Pickard
+Australia	blanc	sparkling blend	Christina Pickard
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	pinot noir	Christina Pickard
+Australia	rouge	red blend	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	grenache	Joe Czerwinski
+Australia	blanc	riesling	Christina Pickard
+Australia	blanc	sémillon	Christina Pickard
+Australia	blanc	riesling	Christina Pickard
+Australia	blanc	sauvignon blanc-semillon	Christina Pickard
+Australia	blanc	riesling	NTN
+Australia	blanc	chardonnay	NTN
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	red blend	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	pinot noir	Christina Pickard
+Australia	rouge	cabernet sauvignon	Christina Pickard
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	pinot noir	Christina Pickard
+Australia	rouge	grenache	Joe Czerwinski
+Australia	blanc	riesling	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	cabernet sauvignon-shiraz	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Christina Pickard
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	blanc	pinot grigio	Joe Czerwinski
+Australia	blanc	riesling	Joe Czerwinski
+Australia	blanc	chardonnay	NTN
+Australia	blanc	shiraz-viognier	Christina Pickard
+Australia	rouge	cabernet sauvignon	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	sauvignon blanc-semillon	Joe Czerwinski
+Australia	rouge	syrah	Christina Pickard
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	chardonnay	NTN
+Australia	blanc	moscato	Joe Czerwinski
+Australia	blanc	muscat	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Joe Czerwinski
+Australia	blanc	chardonnay	Christina Pickard
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	pinot noir	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	chardonnay	Christina Pickard
+Australia	blanc	riesling	Christina Pickard
+Australia	rouge	pinot noir	Christina Pickard
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	chardonnay	Christina Pickard
+Australia	rouge	shiraz	Christina Pickard
+Australia	blanc	chardonnay	Christina Pickard
+Australia	blanc	shiraz-viognier	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	blanc	riesling	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	pinot noir	Christina Pickard
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	cabernet sauvignon	Christina Pickard
+Australia	blanc	marsanne	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	pinot noir	Christina Pickard
+Australia	blanc	chardonnay	Christina Pickard
+Australia	blanc	chardonnay	NTN
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	cabernet merlot	Joe Czerwinski
+Australia	blanc	chardonnay	NTN
+Australia	rouge	cabernet sauvignon	Christina Pickard
+Australia	blanc	sémillon	Joe Czerwinski
+Australia	rouge	red blends	Christina Pickard
+Australia	rouge	syrah	Joe Czerwinski
+Australia	rouge	cabernet blend	Christina Pickard
+Australia	blanc	riesling	NTN
+Australia	rouge	cabernet blend	Christina Pickard
+Australia	rouge	red blend	NTN
+Australia	rouge	pinot noir	Christina Pickard
+Australia	rouge	red blend	Joe Czerwinski
+Australia	blanc	riesling	Joe Czerwinski
+Australia	blanc	sauvignon blanc	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	bordeaux-style red blend	Christina Pickard
+Australia	rouge	shiraz	Christina Pickard
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	blanc	riesling	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	cabernet sauvignon-merlot	Joe Czerwinski
+Australia	blanc	sauvignon	Joe Czerwinski
+Australia	blanc	sparkling blend	Christina Pickard
+Australia	blanc	viognier	Joe Czerwinski
+Australia	rosé	rosé	Christina Pickard
+Australia	blanc	riesling	Joe Czerwinski
+Australia	blanc	chardonnay	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	rhône-style red blend	Christina Pickard
+Australia	rouge	grenache	Joe Czerwinski
+Australia	rouge	shiraz	Christina Pickard
+Australia	blanc	shiraz-viognier	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	sémillon	Joe Czerwinski
+Australia	rouge	shiraz	Joe Czerwinski
+Australia	blanc	sauvignon blanc	NTN
+Australia	blanc	sémillon	Christina Pickard
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	pinot noir	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	trollinger	Anna Lee C. Iijima
+Germany	rouge	pinot noir	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	pinot noir	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	dornfelder	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	dornfelder	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	sparkling blend	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	white blend	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	pinot gris	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	NTN
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	spätburgunder	Anna Lee C. Iijima
+Germany	blanc	pinot gris	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	pinot noir	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	dornfelder	Anna Lee C. Iijima
+Germany	blanc	sparkling blend	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	NTN
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rosé	rosé	Anna Lee C. Iijima
+Germany	rosé	rosé	Anna Lee C. Iijima
+Germany	blanc	white blend	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	gewürztraminer	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	rouge	pinot noir	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	pinot noir	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	pinot noir	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	schwartzriesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	spätburgunder	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	pinot gris	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	weissburgunder	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	silvaner	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	sparkling blend	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	weissburgunder	Anna Lee C. Iijima
+Germany	rouge	spätburgunder	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	silvaner	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	silvaner	Anna Lee C. Iijima
+Germany	blanc	pinot blanc	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	silvaner	Anna Lee C. Iijima
+Germany	rouge	pinot noir	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	NTN
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Joe Czerwinski
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	rouge	pinot noir	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+Germany	blanc	silvaner	Joe Czerwinski
+Germany	blanc	weissburgunder	Anna Lee C. Iijima
+Germany	blanc	riesling	Anna Lee C. Iijima
+New Zealand	rouge	syrah	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	NTN
+New Zealand	blanc	sauvignon blanc	NTN
+New Zealand	blanc	sauvignon blanc	NTN
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rosé	rosé	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	chardonnay	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	merlot-malbec	Joe Czerwinski
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	pinot gris	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	NTN
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	NTN
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	pinot gris	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	pinot gris	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	NTN
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	bordeaux-style red blend	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	syrah	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	pinot gris	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	riesling	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	riesling	Christina Pickard
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	bordeaux-style red blend	Christina Pickard
+New Zealand	blanc	sauvignon blanc	NTN
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rosé	rosé	Joe Czerwinski
+New Zealand	blanc	riesling	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sparkling blend	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	syrah	Joe Czerwinski
+New Zealand	rouge	cabernet sauvignon-merlot	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	chardonnay	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	syrah	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	chardonnay	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	pinot gris	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	syrah	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	chardonnay	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	NTN
+New Zealand	rosé	rosé	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rosé	champagne blend	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	chardonnay	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	pinot gris	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	syrah	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sparkling blend	Joe Czerwinski
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rosé	rosé	Christina Pickard
+New Zealand	blanc	chardonnay	Joe Czerwinski
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	NTN
+New Zealand	blanc	pinot gris	Joe Czerwinski
+New Zealand	blanc	riesling	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	syrah	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	chardonnay	Christina Pickard
+New Zealand	blanc	chardonnay	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	pinot gris	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	pinot gris	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc-semillon	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	rouge	pinot noir	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+New Zealand	blanc	pinot gris	Christina Pickard
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Joe Czerwinski
+New Zealand	rouge	pinot noir	Joe Czerwinski
+New Zealand	blanc	sauvignon blanc	Christina Pickard
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	pinot noir	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Susan Kostrzewa
+South Africa	rouge	merlot	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Susan Kostrzewa
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	viognier	Lauren Buzzeo
+South Africa	rouge	cabernet sauvignon	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chardonnay	Susan Kostrzewa
+South Africa	rouge	cabernet sauvignon	Lauren Buzzeo
+South Africa	rouge	syrah	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	pinotage	Susan Kostrzewa
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Susan Kostrzewa
+South Africa	rosé	rosé	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	cabernet franc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	shiraz	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	rouge	merlot	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chardonnay	Susan Kostrzewa
+South Africa	rouge	cabernet sauvignon-cabernet franc	Susan Kostrzewa
+South Africa	rouge	rhône-style red blend	Lauren Buzzeo
+South Africa	blanc	white blend	Lauren Buzzeo
+South Africa	rouge	red blend	Susan Kostrzewa
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rosé	rosé	Lauren Buzzeo
+South Africa	rouge	cabernet sauvignon	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	syrah	Lauren Buzzeo
+South Africa	rouge	merlot	NTN
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rouge	shiraz	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	blanc	white blend	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	sparkling blend	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	syrah	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rouge	red blend	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	pinot noir	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	red blend	Lauren Buzzeo
+South Africa	rouge	red blend	Lauren Buzzeo
+South Africa	rouge	bordeaux-style red blend	Susan Kostrzewa
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rouge	syrah	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	rouge	red blend	Lauren Buzzeo
+South Africa	rouge	syrah	NTN
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	grenache	Lauren Buzzeo
+South Africa	rouge	shiraz	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	red blend	Susan Kostrzewa
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	cabernet sauvignon	Lauren Buzzeo
+South Africa	rosé	rosé	Lauren Buzzeo
+South Africa	rouge	cabernet sauvignon	Lauren Buzzeo
+South Africa	rouge	cabernet sauvignon	Susan Kostrzewa
+South Africa	blanc	sauvignon blanc	Susan Kostrzewa
+South Africa	rouge	cabernet sauvignon	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rouge	cabernet sauvignon	Lauren Buzzeo
+South Africa	rouge	cabernet sauvignon	Susan Kostrzewa
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	white blend	Susan Kostrzewa
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	grenache noir	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	viognier	Susan Kostrzewa
+South Africa	blanc	viognier	Lauren Buzzeo
+South Africa	blanc	chardonnay	Susan Kostrzewa
+South Africa	rouge	syrah	Lauren Buzzeo
+South Africa	rouge	shiraz	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	blanc	white blend	Lauren Buzzeo
+South Africa	rouge	bordeaux-style red blend	Lauren Buzzeo
+South Africa	rouge	bordeaux-style red blend	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	blanc	chenin blanc-sauvignon blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	white blend	Lauren Buzzeo
+South Africa	rouge	pinotage	Susan Kostrzewa
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	rouge	bordeaux-style red blend	Lauren Buzzeo
+South Africa	rouge	red blend	Susan Kostrzewa
+South Africa	rouge	shiraz	NTN
+South Africa	rouge	syrah	Lauren Buzzeo
+South Africa	rouge	syrah	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rouge	pinotage	NTN
+South Africa	rouge	pinot noir	Lauren Buzzeo
+South Africa	rouge	merlot	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	NTN
+South Africa	rouge	cabernet sauvignon	Lauren Buzzeo
+South Africa	rouge	pinotage	NTN
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rouge	bordeaux-style red blend	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rosé	rosé	Lauren Buzzeo
+South Africa	blanc	sparkling blend	Lauren Buzzeo
+South Africa	blanc	white blend	NTN
+South Africa	blanc	chenin blanc	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	pinotage	Susan Kostrzewa
+South Africa	rouge	merlot	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	red blend	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	pinot noir	Lauren Buzzeo
+South Africa	rouge	merlot	Susan Kostrzewa
+South Africa	rouge	cabernet sauvignon	Lauren Buzzeo
+South Africa	rouge	bordeaux-style red blend	Susan Kostrzewa
+South Africa	rouge	red blends	Lauren Buzzeo
+South Africa	rouge	bordeaux-style red blend	Lauren Buzzeo
+South Africa	blanc	chardonnay	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Susan Kostrzewa
+South Africa	blanc	sauvignon blanc	Susan Kostrzewa
+South Africa	rouge	pinotage	NTN
+South Africa	rosé	rosé	Lauren Buzzeo
+South Africa	rouge	rhône-style red blend	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	blanc	chardonnay	Susan Kostrzewa
+South Africa	blanc	muscat	Lauren Buzzeo
+South Africa	rouge	bordeaux-style red blend	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	pinot noir	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rouge	red blend	Susan Kostrzewa
+South Africa	rouge	bordeaux-style red blend	Susan Kostrzewa
+South Africa	rouge	red blend	Susan Kostrzewa
+South Africa	blanc	chardonnay	Roger Voss
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	cabernet sauvignon	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	pinotage	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chardonnay	Susan Kostrzewa
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	blanc	chardonnay	Susan Kostrzewa
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Susan Kostrzewa
+South Africa	rouge	merlot	Lauren Buzzeo
+South Africa	rouge	bordeaux-style red blend	Lauren Buzzeo
+South Africa	rouge	pinot noir	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	NTN
+South Africa	blanc	white blend	Lauren Buzzeo
+South Africa	rouge	cabernet sauvignon-merlot	NTN
+South Africa	rouge	red blend	Lauren Buzzeo
+South Africa	rosé	cinsault	Lauren Buzzeo
+South Africa	blanc	chardonnay	Lauren Buzzeo
+South Africa	rouge	shiraz-cabernet sauvignon	NTN
+South Africa	rouge	syrah	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Lauren Buzzeo
+South Africa	rouge	cabernet franc	Lauren Buzzeo
+South Africa	rouge	shiraz	Lauren Buzzeo
+South Africa	rouge	rhône-style red blend	Lauren Buzzeo
+South Africa	rouge	shiraz	Lauren Buzzeo
+South Africa	blanc	chenin blanc	Susan Kostrzewa
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	blanc	sauvignon blanc	Lauren Buzzeo
+South Africa	rouge	merlot	Susan Kostrzewa
+South Africa	rouge	cabernet sauvignon	Lauren Buzzeo
